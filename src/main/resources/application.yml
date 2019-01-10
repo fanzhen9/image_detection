@@ -1,0 +1,8 @@
+server:
+  port: 8060
+spring:
+  datasource:
+    username: vias
+    password: vias
+    url: jdbc:oracle:thin:@15.226.3.39:1521/orcl
+    driver-class-name: oracle.jdbc.driver.OracleDriver
